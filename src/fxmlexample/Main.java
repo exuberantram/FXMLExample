@@ -24,3 +24,8 @@ public class Main extends Application {
         launch(args);
     }
 }
+
+// and so I cry sometimes when I'm lying in bed 
+//just to get it all out, what's in my head
+//and I... scream at the top of my lungs...
+//WHATS GOING ON
